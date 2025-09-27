@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96029def-c4f6-4573-956e-0d1c4daae280" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Practice1/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice1/app/src/main/AndroidManifest.xml" afterDir="false" />
+    <list default="true" id="502c27d8-cbc7-455b-accb-1e90c372b2f4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Android-development.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,13 +20,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
-  <component name="ProjectId" id="32xQkVyMpmbxttOejpiE8UJM8CZ" />
+  <component name="ProjectId" id="33H1yGhlswJQA1zT2LpuyoAbf17" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,19 +32,19 @@
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "android.gradle.sync.needed": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/SystemX/AndroidStudioProjects/Android Development/Android-development"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="96029def-c4f6-4573-956e-0d1c4daae280" name="Changes" comment="" />
-      <created>1758359887028</created>
+      <changelist id="502c27d8-cbc7-455b-accb-1e90c372b2f4" name="Changes" comment="" />
+      <created>1758959437336</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1758359887028</updated>
+      <updated>1758959437336</updated>
     </task>
     <servers />
   </component>
